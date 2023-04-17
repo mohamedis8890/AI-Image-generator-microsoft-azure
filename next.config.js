@@ -6,7 +6,7 @@ module.exports = {
   },
   images: {
     domains: [
-      "sonnytestapp38d554.blob.core.windows.net",
+      "aiimagegeneratormob6a3b9.blob.core.windows.net",
       "links.papareact.com",
     ],
   },
